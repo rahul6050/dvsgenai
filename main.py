@@ -1,7 +1,7 @@
 import random
 from fastmcp import FastMCP
 
-# Create a FastMCP server instance
+# Create a FastMCP server instance..
 mcp = FastMCP(name="Simple Calculator Server")
 
 
